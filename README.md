@@ -1,6 +1,6 @@
 # IIIT-H-Internship
 
-Intelligent Real-Time Surveillance System
+Intelligent Real-Time Surveillance System using YOLOv8
 
 This project implements **Intelligent Real-Time Surveillance System** using the YOLOv8 model (Ultralytics) and OpenCV, with the ability to **record detections as a video file**.
 
