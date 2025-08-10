@@ -1,4 +1,4 @@
-# IIIT-H-Internship
+#Intelligent Real-Time Surveillance System using YOLOv8
 
 Intelligent Real-Time Surveillance System using YOLOv8
 
