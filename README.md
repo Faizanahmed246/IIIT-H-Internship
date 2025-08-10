@@ -1,8 +1,8 @@
 # IIIT-H-Internship
 
-YOLOv8 Real-Time Object Detection with Video Recording Feature
+Intelligent Real-Time Surveillance System
 
-This project implements **real-time object detection** using the YOLOv8 model (Ultralytics) and OpenCV, with the ability to **record detections as a video file**.
+This project implements **Intelligent Real-Time Surveillance System** using the YOLOv8 model (Ultralytics) and OpenCV, with the ability to **record detections as a video file**.
 
 ---
 
@@ -17,7 +17,7 @@ This project implements **real-time object detection** using the YOLOv8 model (U
 ## 🛠 Installation
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/yolov8-realtime-detection.git
+git clone https://github.com/Faizanahmed246/IIIT-H-Internship
 cd yolov8-realtime-detection
 ```
 
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## ▶ Usage
 Run the script:
 ```bash
-python yolov8_webcam_record.py
+python yolov8_webcamwithrecord.py
 ```
 
 - Press **`q`** to stop recording and exit.
